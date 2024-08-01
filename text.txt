@@ -1,0 +1,42 @@
+/*
+prueba diagnostica 
+
+    La "Plataforma de Cursos Interactiva" es una aplicacion web que ofrece a los usuarios acceso a una amplia variedad de cursos en diferentes areas tematicas. Los usuarios tienen la posibilidad de agregrar, editar y eliminar cursos segun sus necesidades. Cada curso incluye un nombre, una descripcion detallada y su correspondiente contenido, proporcionando una experiencia de aprendizaje completa y accesible 
+    
+    1.Introduccion a JavaScript y fundamentos
+        -Implementar la estructura basica de la plataforma utilizando HTML,CSS y JavaScript.
+        -crear una pagina de inicio que muestre una lista de cursos disponible 
+
+    2.Operadores, Condicionales  y Estructuras Repetitivas 
+        -Implementar funcionalidades para filtrar y buscar cursos por nombre o area tematica 
+        -Aplicar condicionales para gestionar la visualizacion de detalles del curso y opciones de edicion o eliminacion 
+    
+    3.Funciones, Numbre y String
+        -Crear funcioneso para agregar, editar y eliminar cursos incluyendo validaciones basicas de datos
+        -Utilizar manipulacion de cadenas para formatear y mostrar datos de cursos, como nombres y descripciones
+
+    4.Objetos,spread y Destructuracion 
+        -definir los cursos como objetos con porpiedades como nombre, descripcion y contenido 
+        -Utilizar spread para actualizar y gestionar la informacion de los cursos 
+        -implementar destructuracion para extraer y manejar datos de los objetos de cursos
+    
+    5.Coleccion de Datos 
+        -Almacenar cursos de un arra, permitiendo la manipulacion eficiente para agregar, editar y eliminar cursos 
+        -Implementar funcionabilidad de busqueda y filtrado sobre la coleccion de cursos
+
+    6.Asinconia
+        -Implementar funciones asincronicas para cargar datos de cursos desde un bakend simulando o API
+        -Utilizar callbacks para manejar eventos como la carga inicial de datos o actualizaciones en tiempo real 
+    
+    7.Gestionamiento de promesas 
+        -Crear promesas para operaciones como la carga de contenido del curso o la sincronizacion de datos 
+        -Implementar manejo de errores para asegurar que la aplicacion manejar fallas de manera adecuada.
+
+    8.Async/Await para el Manejo de Asincronia 
+        -Refactorizar codigo de promesas paara utilizar async/await, mejorando la legibilidad del codigo  
+        -Implementar funciones asincronas para actualizar el contenido del curso y sincronizar datos con un bakend
+
+    9.Peticiones y Gestion de informacion 
+        -Implementarla funcionabilidad para cargar y guardar informacion de  cursos utilizando Fectch API o XMLHttpRequest
+        -Utilizar Local Storage o Session Storage para almacenar temporalmente datos de curso s y usuarios. 
+*/
